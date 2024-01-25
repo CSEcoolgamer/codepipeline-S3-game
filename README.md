@@ -20,5 +20,11 @@ The code will be deployed and hosted in S3.
 The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code from GitHub, and deploys it to S3 whenever a change is detected in the code.
 
 
-![deployment_image]()
 
+- ![deployment_image](https://github.com/CSEcoolgamer/codepipeline-S3-game/blob/main/images/Screenshot%20(215).png)
+
+- ![deployment_image](https://github.com/CSEcoolgamer/codepipeline-S3-game/blob/main/images/Screenshot%20(216).png)
+
+- ![deployment_image](https://github.com/CSEcoolgamer/codepipeline-S3-game/blob/main/images/Screenshot%20(217).png)
+
+- ![deployment_image](https://github.com/CSEcoolgamer/codepipeline-S3-game/blob/main/images/Screenshot%20(218).png)
